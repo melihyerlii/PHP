@@ -1,0 +1,77 @@
+body{
+  font-family: 'Baloo Paaji 2', cursive;
+  margin: 0 0 0 0;
+  background-color: #bfbfbf;
+}
+.genelDiv{
+  position: absolute;
+  background-color: white;
+  width: 1000px;
+  height: all;
+  margin-top: 50px;
+  margin-left: 170px;
+  border-radius: 5px;
+}
+.baslik{
+  position: absolute;
+  margin-left: 20px;
+}
+.baslik h6{
+  font-size: 13px;
+  font-weight: 10;
+  margin-top: -10px;
+  margin-left: 1px;
+}
+.yatayMenu ul{
+  position: absolute;
+  margin-top: 100px;
+  list-style: none;
+  margin-left: -70px;:
+}
+.yatayMenu ul li{
+  float: left;
+  margin-left: 50px;
+  font-size: 13px;
+}
+.yatayMenu ul li a{
+  text-decoration: none;
+  color: #636363;
+}
+.yatayMenu ul li:hover a{
+  color: black;
+}
+.ortaResim{
+  position: absolute;
+  margin-top: 140px;
+  margin-left: 20px;
+}
+.ortaResim img{
+  width: 960px;
+  height: 330px;
+  border-radius: 5px;
+}
+.contactMe{
+  position: absolute;
+  margin-top: 480px;
+  margin-left: 20px;
+}
+.hakkimda{
+  position: absolute;
+  margin-top: 480px;
+  margin-left: 20px;
+  color: #636363;
+}
+.hakkimda h3{
+  font-weight: bold;
+  color: black;
+}
+.makaleAlani{
+  position: relative;
+  margin-top: 500px;
+  margin-left: 20px;
+  word-wrap:break-word;
+}
+.makaleAlani p{
+  color: gray;
+  font-weight: 10;
+}
